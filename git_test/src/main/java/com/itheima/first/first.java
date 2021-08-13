@@ -6,5 +6,8 @@ public class first {
         System.out.println("hhhhhhhhhhhh");
         System.out.println("hhhhhhhhhhhh");
         System.out.println("hhhhhhhhhhhh");
+        System.out.println("hhhhhhhhhhhh");
+        System.out.println("hhhhhhhhhhhh");
+        System.out.println("hhhhhhhhhhhh");
     }
 }
